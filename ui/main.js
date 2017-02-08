@@ -10,6 +10,8 @@ function moveright(){
     img.style.marginleft = marginlef+'px';
 }
 var img = document.getElementById('madi');
+img.onclick = function()
+{
 var interval = setInterval(moveright,100);
-    
+};
     
