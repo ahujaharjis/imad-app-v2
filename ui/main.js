@@ -1,5 +1,5 @@
 console.log('Loaded!');
 // to changee elements
 var element=document.getelementbyId('main-text');
-element.innerhtml='new value';
+element.innerHtml='new value';
 // tpo shift image
