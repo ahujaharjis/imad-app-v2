@@ -6,7 +6,7 @@ element.innerHTML = 'new value';
 // tpo shift image
 var img = document.getElementById('madi');
 img.onclick=function(){
-img.style.marginleft='100px';
+img.style.marginleft = '100px';
     };
     
     
