@@ -16,6 +16,11 @@ body {
     font-weight: bold;
 }
 
+.a
+{
+    font-size: 200%;
+    font-weight: lighter;
+}
 .img-medium {
     height: 200px;
 }
