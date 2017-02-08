@@ -15,6 +15,6 @@ req.onreadstatechange=function(){
         }
     }
 };
-request.open('GET','http://ahujaharjis.imad.hasura-app.io',true);
+request.open('GET','http://ahujaharjis.imad.hasura-app.io/counter',true);
 request.send(null);
 };
